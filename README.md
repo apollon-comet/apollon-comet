@@ -1,20 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a>
-    live.cid.41e2f632cf1a4526
-  </a>
+    
 </div>
   <h1>
-  👋 Hi, I’m Edwin Jackson
+  👋 Hi, I’m Kang Xiao
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
-- Skype name: live.cid.41e2f632cf1a4526
+- Skype name: live:.cid.b21fa127df48be97
+- Slack mail: apollon.comet@gmail.com
 - Full Stack Web/Web3 Developer with latest technologies
 🔭 A full stack web/web3 developer with 7 years experience in web development and 3 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
-⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like this, decentralized applications(DAO, DEX, Defi, NFT) like this and blockchain networks like this. Here are my main skills/experiences in web/web3.
+⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like this, decentralized applications(DAO, DEX, Defi, NFT) like this and blockchain networks like this.
+
+Here are my main skills/experiences in web/web3.
 
 HTML/CSS, JavaScript, TypeScript, PHP, Python, Ruby, Solidity, Golang, Rust
 Hardhat, Truffle
