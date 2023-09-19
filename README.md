@@ -4,12 +4,14 @@
     
 </div>
   <h1>
-  👋 Hi, I’m @Pollon!
+  👋 Hi, I’m Apollon!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
 - Skype name: live:.cid.b21fa127df48be97
 - Slack : (https://app.slack.com/client/T05F80QSJNQ/C05F5H8N7S6)
+- Discord name: apollon1223_91681
+- Telegram: https://t.me/redhatdevn16
 - Full Stack Web/Web3 Developer with latest technologies
 🔭 A full stack web/web3 developer with 7 years experience in web development and 3 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
