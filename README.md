@@ -4,7 +4,7 @@
     
 </div>
   <h1>
-  👋 Hi, I like Apollon, God of light!
+  👋 Hi, I like Apollon, God of Sun and Justice!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
